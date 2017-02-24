@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='logger_cjl',
     version='',
-    packages=[''],
+    packages=['logger_cjl'],
     url='https://github.com/littley/logger_cjl',
     license='http://www.apache.org/licenses/LICENSE-2.0',
     author='Cody Littley',
